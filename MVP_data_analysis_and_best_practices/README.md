@@ -10,6 +10,7 @@ It helps to retain customers and attract new consumers;
 Improves the customer experience, resulting in positive reviews;
 Identifies market opportunities and enables the development of tailored products and services;
 Improves internal processes, reducing costs and increasing profitability.
+
 In this context, the aim of this MVP is to perform an exploratory analysis to identify the main attributes that lead a customer to rate their overall experience as satisfactory. The goal is to assist the company in concentrating efforts and investments in what adds the most value to the customer, aiming for greater efficiency, cost reduction, and increased profitability.
 
 -------
